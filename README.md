@@ -79,4 +79,4 @@ Linked-List-Management-System/
 ```
 
 ## Author
-Add your name, student ID, course, and instructor details before submission.
+Talari Yashwanth
