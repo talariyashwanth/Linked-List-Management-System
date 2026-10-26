@@ -1,0 +1,26 @@
+Example session (illustrative):
+
+====================================
+     LINKED LIST MANAGEMENT SYSTEM
+====================================
+1. Singly Linked List
+2. Doubly Linked List
+3. Compare Singly vs Doubly Linked List
+4. Exit
+Enter your choice: 1
+
+--- Singly Linked List ---
+Enter your choice: 2
+Enter value: 40
+Operation completed.
+Enter your choice: 2
+Enter value: 10
+Operation completed.
+Enter your choice: 2
+Enter value: 30
+Operation completed.
+Enter your choice: 12
+40 -> 10 -> 30 -> NULL
+Enter your choice: 18
+List sorted in ascending order.
+10 -> 30 -> 40 -> NULL
