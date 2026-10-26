@@ -79,4 +79,4 @@ Linked-List-Management-System/
 ```
 
 ## Author
-Talari Yashwanth
+- Talari Yashwanth
